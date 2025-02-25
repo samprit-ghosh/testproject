@@ -65,7 +65,7 @@
   content: "";
   width: 10px;
   height: 10px;
-  background-color: #ff5c8d;
+  /* background-color: #ff5c8d; */
   border-radius: 50%;
 }
 
@@ -148,7 +148,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px 0;
+  padding: 5px 0;
   margin: 15px;
 }
 
@@ -160,6 +160,7 @@
 .total-price {
   font-size: 16px;
   font-weight: bold;
+
  
 }
 
@@ -177,6 +178,7 @@
   align-items: center;
   justify-content: center;
   gap: 8px;
+margin-top: -20px;
   /* margin-left: 10px; */
 /* padding:20px; */
  
